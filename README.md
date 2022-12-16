@@ -36,7 +36,7 @@ To crawl source in S3.
 Add classifier:
 Glue classifier (under data catalog) add classifier give details create 
 
-Create crawler:
+**Create crawler:**
 Partition Tables:
 Where we want to see active data only. Old data rarely.
 Glue tables add tables (using crawler) name (crawler1), 
